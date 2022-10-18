@@ -7,7 +7,7 @@ import { defineComponent } from 'vue'
 import { props } from './props'
 
 export default defineComponent({
-  name: 'MvIcon',
+  name: 'MqIcon',
   props,
   setup(props) {},
 })
