@@ -1,9 +1,4 @@
-# varlet-cli-app
-
-### Reference
-
-[@varlet/cli 中文文档](https://github.com/varletjs/varlet/blob/dev/packages/varlet-cli/README.md)
-[@varlet/cli documentation](https://github.com/varletjs/varlet/blob/dev/packages/varlet-cli/README.en-US.md)
+# MV-UI
 
 ### Quickstart
 
